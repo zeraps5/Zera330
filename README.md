@@ -2,6 +2,10 @@
 
 # zera330
 
+[![Windows application downloads (latest release)](docs/downloads.svg)](https://github.com/zeraps5/Zera330/releases)
+
+*Windows application ZIP downloads for the latest published release, including updates and tests; not unique users. Updated hourly and after a release. The count remains zero until a Windows package is published; GitHub's automatic source archives are not counted.*
+
 Neo Geo MVS arcade emulation for Windows x64, with Linux ARM single-board computers as the next target. Part of the Zera family, alongside ZeraPS5. Maintained by **metallrockdev**.
 
 ## Development version: 0.1.0
