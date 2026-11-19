@@ -1,0 +1,44 @@
+# Build output
+build/
+build_release/
+out/
+.vs/
+.vscode/
+*.pdb
+compile_commands.json
+
+# Games, BIOS and other copyrighted dumps never go in the repository
+roms/
+*.zip
+*.rar
+*.bin
+*.rom
+*.sp1
+*.sav
+*.sta
+
+# User data written by the emulator (battery-backed RAM, save states)
+nvram/
+states/
+
+# Third-party programs and SDKs kept locally (download instructions in CONTRIBUTING.md)
+third_party/mame/
+third_party/mame*.exe
+third_party/SDL2-*/
+third_party/SDL2-devel-*.zip
+third_party/*.bin
+
+# Debug captures and scratch files from investigations
+/*.bmp
+/*.png
+/*.wav
+__pycache__/
+.claude/
+
+# Portable launcher settings, reports and screenshots
+user/
+capturas/
+*.log
+*.dmp
+.env
+.env.*
